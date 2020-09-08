@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "path": "Business.json",
+      "size": 122,
+      "date": 132399197780000000
+    },
+    {
+      "path": "ContentInfo/Godzilla/Thumbnail.jpg",
+      "size": 45212,
+      "date": 132439106124473748
+    },
+    {
+      "path": "manifest.json",
+      "size": 303,
+      "date": 132439128235207001
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 28506682,
+      "date": 132439097257008710
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/GODZILLA 2019 COLOR V2 MM_1.JPG.DDS",
+      "size": 11184952,
+      "date": 132439097243329365
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/GODZILLA 2019 COLOR V2 MM_1.JPG.DDS.json",
+      "size": 102,
+      "date": 132439097243209336
+    },
+    {
+      "path": "scenery/world/scenery/GodzillaSCN.bgl",
+      "size": 156,
+      "date": 132439129488993905
+    },
+    {
+      "path": "scenery/world/scenery/GODZILLASHP.BGL",
+      "size": 1747,
+      "date": 132439129489083927
+    }
+  ]
+}
