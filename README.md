@@ -1,5 +1,7 @@
 # Godzilla for MSFS 2020
 
+![alt text](https://github.com//breakersinc/Godzilla_msfs/blob/master/screenshot.png?raw=true)
+
 Imagine yourself flying in the storm with poor visibility and suddenly discover the lightning silhouette of the King of the Monsters.
 Stop imagining it. Now you can feel it.
 
